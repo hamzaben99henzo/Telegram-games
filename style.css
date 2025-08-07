@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding: 20px;
+}
+.puzzle-image {
+  width: 80%;
+  max-width: 300px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+.options button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#result {
+  font-size: 18px;
+  margin-top: 15px;
+}
